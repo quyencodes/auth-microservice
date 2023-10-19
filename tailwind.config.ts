@@ -11,6 +11,7 @@ const config: Config = {
       fontFamily: {
         navFont: ['Inter', 'sans-serif'],
         bodyFont: ['Open Sans', 'sans-serif'],
+        componentsFont: ['Roboto', 'sans-serif'],
       },
       boxShadow: {
         main: '0 8px 26px -4px hsla(0,0%,8%,.15),0 8px 9px -5px hsla(0,0%,8%,.06)',
